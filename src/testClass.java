@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
 public class testClass {
-    int num;
-    String msg;
-    ArrayList<Integer> numlist;
+    private int num;
+    private String msg;
+    private ArrayList<Integer> numlist;
 
     public testClass(int num, String msg){
         this.num = num;

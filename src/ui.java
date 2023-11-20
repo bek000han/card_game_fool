@@ -1,6 +1,6 @@
 
 public class ui {
-    boolean status;
+    private boolean status;
     ui(){
         this.status = true;
     }
