@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         ui logic = new ui();
         logic.start();
-        boolean status = logic.status;
+        boolean status = logic.isStatus();
         System.out.println(status);
     }
 
