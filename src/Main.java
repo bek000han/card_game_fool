@@ -6,6 +6,4 @@ public class Main {
         boolean status = logic.isStatus();
         System.out.println(status);
     }
-
-
 }
