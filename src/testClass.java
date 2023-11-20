@@ -18,4 +18,12 @@ public class testClass {
     public String getMsg() {
         return msg;
     }
+
+    public void setNum(int num) {
+        this.num = num;
+    }
+
+    public void setMsg(String msg) {
+        this.msg = msg;
+    }
 }
